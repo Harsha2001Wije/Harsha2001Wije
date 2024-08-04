@@ -1,78 +1,34 @@
-<div id="header" align="center">
+# 🌟 Welcome to My Creative Portfolio! 🎨📸🎥
 
- <a href="https://gifyu.com/image/S0uHU"><img src="https://s13.gifyu.com/images/S0uHU.gif" alt="coding" border="0" /></a>
-</div>
-<h1 align="center">Hi👋 I'm Chamika Harshajith</h1>
-<h3 align="center">Software Engineering Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>
+#### Hello! I'm Chamika Wijenarayana 👋
 
-<br>
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+I’m a versatile **Creative Professional** with a passion for **graphic design**, **videography**, and **photography**. My goal is to create visually stunning and engaging content that tells a story and leaves a lasting impression.
 
+## What I Do:
 
-- 🌱 I’m currently learning **Mern Stack Development**
-  
-<!-- - 👯 I’m looking to collaborate on **Java Projects** -->
-  
-- 🤝 I’m looking for help with **Android Development**
+- **Graphic Design**: Designing brand identities, logos, marketing materials, and more with a keen eye for detail and aesthetics.
+- **Videography**: Capturing compelling video content, from concept to final cut, including promotional videos, short films, and creative projects.
+- **Photography**: Taking striking photos that capture moments, landscapes, and subjects with a unique perspective and artistic flair.
 
-- 💬 Ask me about **Java**
+## My Toolbox:
 
-<!-- - 📫 How to reach me **s* -->
+- **Design Software**: Adobe Photoshop, Illustrator, InDesign, After Effects, Figma
+- **Video Editing Tools**: Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve
+- **Photography Gear**: DSLR and Mirrorless Cameras, Lenses, Lighting Equipment
+- **Skills**: Visual Storytelling, Color Grading, Composition, Branding, Motion Graphics
 
-- ⚡ Fun fact **Call me as Harsha**
+## My Creative Process:
 
-</td>
-<td width="50%" align="center">
-<a href="https://gifyu.com/image/S0634"><img src="https://s13.gifyu.com/images/S0634.gif" alt="Developer gif" border="0" /></a>
+I believe in blending **creativity** with **technical expertise**. Whether it’s designing a brand’s visual identity, capturing the perfect shot, or producing a dynamic video, my approach is always focused on delivering high-quality and impactful results. I’m driven by a love for storytelling and an eagerness to explore new creative horizons.
 
-  </td>
-</tr>
-</table>
+## Portfolio Highlights:
 
+Explore my work across different mediums:
 
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-<a href="http://www.linkedin.com/in/chamika-harshajith-399bb4255" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg?raw=true" alt="chamika" height="50" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008202165647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamika" height="50" width="50" /></a>&nbsp;
-<a href="https://www.instagram.com/Chami_11harsh" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="chamika" height="50" width="50" /></a>
-</p>
-</br>
+- **[Graphic Design Projects](#)**: Dive into my portfolio of logos, branding, and marketing designs.
+- **[Videography Creations](#)**: Watch a selection of videos showcasing my work in film and motion graphics.
+- **[Photography Gallery](#)**: Browse through my collection of photos, capturing various subjects and styles.
 
-<h3 align="center">Languages and Tools</h3><br>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kotlin-Dark.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="mssql" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="php" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="50" height="50"/> </a>
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="github" width="50" height="50"/> </a>
-<a href="https://eclipse.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Eclipse-Dark.svg" alt="eclipse" width="50" height="50"/> </a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" alt="android studio" width="50" height="50"/> </a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" width="50" height="50"/> </a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50" height="50"/> </a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="npm" width="50" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" alt="TomCat" width="50" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="50" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="Express" width="50" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" width="50" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg" alt="WordPress" width="50" height="50"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="Figma" width="50" height="50"/> </a>
+## Let’s Collaborate!
 
-
- </p>
- </p>
-<h3 align="center">My Statistics</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Harsha2001Wije&theme=dark&show_icons=true&count_private=true" />
-  <br>
-
-</td>
-<td width="50%" align="center">
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsha2001Wije&theme=dark&hide_border=false" /> 
-  </td>
-</tr>
-</table>
-
----
+I’m always excited about **new projects**, **collaborations**, and **creative challenges**. If you’re interested in working together or just want to chat about design, video, or photography, don’t hesitate to reach out!
